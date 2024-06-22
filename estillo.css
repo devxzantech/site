@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(11, 11, 11);
+}
+
+#divisor {
+    width: 98%;
+   
+    
+    margin-left: 1%;
+    margin-right: 1%;
+    height: 400pt;
+}
+
+#divisor1 {
+    height: 20%;
+    background-color: rgb(199, 211, 226);
+    
+    
+}
+
+#divisor1 header {
+    height: 100%;
+}
+
+#divisor2 {
+    height: 70%;
+    background-color: rgb(227, 186, 186);
+}
+
+#divisor2 article {
+    width: 70%;
+    height: 100%;
+    float: right;
+    background-color: rgb(169, 169, 217);
+}
+
+#divisor2 aside {
+    width: 30%;
+    height: 100%;
+    float: left;
+    background-color: rgb(198, 225, 225);
+}
+
+#divisor3 {
+    height: 10%;
+}
+
+#divisor3 footer {
+    height: 100%;
+    background-color: rgb(201, 167, 185);
+}
